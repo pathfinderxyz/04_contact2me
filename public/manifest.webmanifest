@@ -1,0 +1,17 @@
+{
+  "name": "Contact2me",
+  "short_name": "Contact2me",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f8",
+  "theme_color": "#f4f5f8",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

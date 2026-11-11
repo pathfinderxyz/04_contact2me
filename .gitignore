@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+
+# Copia anterior, con su propio Git y dependencias pesadas
+proyecto_viejo
